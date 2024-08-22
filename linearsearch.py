@@ -13,3 +13,5 @@ if result != -1:
     print("Value",targetVal,"found at index",result)
 else:
     print("Value",targetVal,"not found")
+
+print("Hello")
